@@ -7,9 +7,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Larissa",
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git",
-		"author": "Larissa"
+		"url": "https://idontknow/todo.git"
 	}
 }
